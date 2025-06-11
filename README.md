@@ -57,8 +57,7 @@ The dataset includes anonymized customer information such as:
 
 ## 📸 Dashboard Preview
 
-![Excel Dashboard Screenshot](images/dashboard_preview.png)  
-> *(Add your dashboard screenshot in the `images/` folder and update this link if needed.)*
+![Excel Dashboard Screenshot](dashboard_preview.png)
 
 ---
 
