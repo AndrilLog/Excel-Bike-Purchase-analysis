@@ -1,12 +1,12 @@
-# 🚲 Excel Bike Sales Analysis Project
+#  Excel Bike Sales Analysis Project
 
-## 📊 Project Overview
+##  Project Overview
 
 The goal of this project is to analyze a dataset of bike purchases and uncover key insights into customer demographics and behaviors that influence buying decisions. The final deliverable is an interactive Excel dashboard for business stakeholders.
 
 ---
 
-## 🔧 Tools Used
+## Tools Used
 
 - **Microsoft Excel**
   - Data Cleaning
@@ -18,7 +18,7 @@ The goal of this project is to analyze a dataset of bike purchases and uncover k
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The dataset includes anonymized customer information such as:
 - Age, Gender, Marital Status
@@ -29,7 +29,7 @@ The dataset includes anonymized customer information such as:
 
 ---
 
-## 🧹 Steps Performed
+##  Steps Performed
 
 1. **Data Cleaning**
    - Removed duplicates and blanks
@@ -51,13 +51,13 @@ The dataset includes anonymized customer information such as:
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 ![Excel Dashboard Screenshot](dashboard_preview.png)
 
 ---
 
-## ✅ Skills Demonstrated
+## Skills Demonstrated
 
 - Data cleaning and wrangling in Excel  
 - Creating and analyzing Pivot Tables  
@@ -67,7 +67,7 @@ The dataset includes anonymized customer information such as:
 
 ---
 
-## 🧠 Insights Gained
+## Insights Gained
 
 - Customers with higher incomes were more likely to purchase bikes  
 - Commute distance and occupation played a role in purchase decisions  
@@ -75,7 +75,7 @@ The dataset includes anonymized customer information such as:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download or clone this repo  
 2. Open the `Bike_Buyers.xlsx` file in Excel  
