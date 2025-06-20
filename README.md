@@ -1,7 +1,5 @@
 # 🚲 Excel Bike Sales Analysis Project
 
-This project is a complete beginner-friendly data analysis case study using Microsoft Excel. It is based on the [Alex The Analyst YouTube tutorial](https://www.youtube.com/watch?v=opJgMj1IUrc) and walks through the entire data analysis process—from data cleaning to dashboard creation.
-
 ## 📊 Project Overview
 
 The goal of this project is to analyze a dataset of bike purchases and uncover key insights into customer demographics and behaviors that influence buying decisions. The final deliverable is an interactive Excel dashboard for business stakeholders.
@@ -28,8 +26,6 @@ The dataset includes anonymized customer information such as:
 - Commute Distance, Region
 - Car Ownership
 - Bike Purchase (Yes/No)
-
-> 📥 Dataset Source: Included in the video description or available in this repo as `Bike_Buyers.xlsx`
 
 ---
 
@@ -88,9 +84,5 @@ The dataset includes anonymized customer information such as:
 
 ---
 
-## 📌 Credits
 
-- Tutorial by [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)  
-- Project recreated and customized by [AndrilLog](https://github.com/AndrilLog)
 
----
